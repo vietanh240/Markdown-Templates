@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=50&pause=1000&center=true&vCenter=true&width=435&lines=Markdown+Templates)
+
 # Markdown Templates
 
 ## Giới thiệu
